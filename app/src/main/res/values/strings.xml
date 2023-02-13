@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ErkinbekovBilimDz-2_3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zero">0</string>
+    <string name="minus_one">-1</string>
+    <string name="plus_one">+1</string>
+    <string name="zero_text">0</string>
+    <string name="result_firstfragment">Result FirstFragment</string>
+    <string name="result">Result</string>
+    <string name="send">Send</string>
+</resources>
